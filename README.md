@@ -14,4 +14,4 @@ This application essentially is a click and type app. The app background color i
 
 ### App Walk-though:
 <br>
-<img height="500px" width="600px" src="Appgif.gif" width=200><br>
+<img height="600px" width="600px" src="Appgif.gif" width=200><br>
