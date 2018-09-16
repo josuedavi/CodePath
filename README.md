@@ -11,4 +11,5 @@ Functionality:
 </h3>
 
 ### App Walk-though
+
 <img height="500px" width="600px" src="Appgif.gif" width=200><br>
