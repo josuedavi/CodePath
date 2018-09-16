@@ -3,7 +3,7 @@
 ### App Description:
 
 <h3>
-This application essentially is a click and type app. The app background color is a lime green which with a click of "Change Background Color" button changes to white. With a button, "Change Text", you can change a label, " ," surrounded by a white background.Lastly, the user can change the color of the label with a button, "Change Text Color."
+This application essentially is a click and type app. The app background color is a lime green which with a click of "Change Background Color" button changes to white. With a button, "Change Text", you can change a label, " Hello!👋," surrounded by a white background. Lastly, the user can change the color of the label with a button, "Change Text Color."
 
 </h3>
 <br>
