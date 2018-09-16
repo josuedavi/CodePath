@@ -11,4 +11,4 @@ Functionality:
 </h1>
 
 ### App Walk-though
-<img height:500px;width:300px; src="Appgif.gif" width=200><br>
+<img height:"500px" width:"300px" src="Appgif.gif" width=200><br>
