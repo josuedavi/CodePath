@@ -8,8 +8,9 @@ This application essentially is a click and type app. The app background color i
 </h3>
 <br>
 
-### Functionality:
+### <u>Functionality:</u>
 
+<br>
 <h3>
 <li>Change Text: With an input field you can change the text.</li>
 <li>Change Background Color: Change the color of the lime green background color to a white background color.</li>
