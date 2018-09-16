@@ -16,6 +16,7 @@ This application essentially is a click and type app. The app background color i
 <li>Change Text Color: Change the color of the text to purple. </li>
 </h3>
 
-### App Walk-though
+### App Walk-though:
 
+<br>
 <img height="500px" width="600px" src="Appgif.gif" width=200><br>
