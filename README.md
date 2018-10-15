@@ -15,3 +15,11 @@ This application essentially is a click and type app. The app background color i
 ### App Walk-though:
 <br>
 <img height="600px" width="600px" src="Appgif.gif" width=200><br>
+
+
+## Flashcard
+<h3>
+This application essentially is a click app. The app asks "What Is 10 + 9?" Then when clicked responds "21"... As a joke :P
+</h3>
+<br>
+<img height="600px" width="600px" src="flashcard.gif" width=200><br>
